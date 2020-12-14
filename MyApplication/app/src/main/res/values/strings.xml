@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="trackndtrigger">TRACK N\'D TRIGGER</string>
+    <string name="reg">REGISTER</string>
+    <string name="log">Already registered? LOGIN</string>
+    <string name="user_name">Username</string>
+    <string name="ph">Phone</string>
+    <string name="mail">G-mail ID</string>
+    <string name="prof">Profession</string>
+    <string name="reg_page">REGISTRATION PAGE</string>
+    <string name="next">NEXT</string>
+    <string name="pass">Password</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="logpage">LOGIN PAGE</string>
+    <string name="verify_num">VERIFY PHONE NUMBER</string>
+    <string name="verify_sign_in"><![CDATA[Verify & Sign-in]]></string>
+    <string name="otp">ENTER OTP</string>
+    <string name="logout">LOG OUT</string>
+    <string name="Reminder">REMINDERS</string>
+    <string name="event">Upcoming Events</string>
+    <string name="set">SET DAILY REMINDER</string>
+    <string name="add_rem">ADD REMINDER</string>
+    <string name="add_task">CREATE EVENT</string>
+    <string name="event_crt">CREATE EVENT</string>
+    <string name="contenT_box">ENTER TASK</string>
+    <string name="time">SELECT TIME</string>
+    <string name="DATE">SELECT DATE</string>
+    <string name="SAVE_BTN">SAVE</string>
+    <string name="reg_title">Regsiter</string>
+    <string name="login_title">Login</string>
+    <string name="sign_title">SIGN - IN</string>
+    <string name="record_me_to">Record Me To</string>
+    <string name="hint">E-mail ID</string>
+    <string name="item_add">ADD ITEM</string>
+</resources>
